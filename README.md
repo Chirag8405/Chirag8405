@@ -119,13 +119,6 @@ I'm a **Full-Stack Developer** and **AI/ML Enthusiast** passionate about buildin
 
 ---
 
-## 🎯 Current Goals & Future Plans
-
-🚀 **Next on my roadmap:**
-- **GraphQL & Microservices Integration:** Enhancing StudySphere_v2 with modern API architectures
-- **Mobile Development:** Building a React Native companion app for cross-platform reach  
-- **Open Source Contributions:** Contributing to AI frameworks and deepening knowledge in Tortoise & Bark TTS models
-- **Cloud-Native Architecture:** Exploring serverless computing and containerization best practices
 
 ---
 
