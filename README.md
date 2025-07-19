@@ -59,16 +59,6 @@ I'm a **Full-Stack Developer** and **AI/ML Enthusiast** passionate about buildin
   - **Agile Methodologies:** Hands-on experience with agile methodologies and real-world project collaboration
 - **Skills Demonstrated:** Enterprise Java development, financial software architecture, API design, and collaborative development practices
 
-### 📊 [DSA-Exp](https://github.com/Chirag8405/DSA-Exp)
-**Data Structures & Algorithms Implementation Hub**
-- **Tech Stack:** Multiple languages for algorithm comparison
-- **Key Features:**
-  - Graph and tree data structure implementations
-  - Sorting algorithms with performance analysis
-  - Dynamic programming solutions
-  - Clean, well-commented code with complexity analysis
-
----
 
 ## 💻 Tech Stack
 
