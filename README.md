@@ -119,9 +119,6 @@ I'm a **Full-Stack Developer** and **AI/ML Enthusiast** passionate about buildin
 
 ---
 
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
