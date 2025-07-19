@@ -48,13 +48,16 @@ I'm a **Full-Stack Developer** and **AI/ML Enthusiast** passionate about buildin
   - Optional Streamlit web interface
 
 ### 🏦 [forage-midas](https://github.com/Chirag8405/forage-midas)
-**Enterprise Java Application - JPMC Software Engineering**
-- **Tech Stack:** Java, JUnit, RESTful APIs
-- **Key Features:**
-  - Enterprise-grade code patterns
-  - Clean architecture implementation
-  - Comprehensive JUnit test coverage
-  - RESTful API endpoints with robust error handling
+**JPMorgan Chase Advanced Software Engineering Virtual Experience**
+- **Program:** JPMorgan Chase Advanced Software Engineering Virtual Experience on Forage
+- **Tech Stack:** Java, Spring Boot, JPA API, RESTful Services, JUnit
+- **Virtual Internship Tasks:**
+  - **Midas Core Integration:** Integrating incentives API with Midas Core system
+  - **Enterprise Software Development:** Built production-grade financial software components
+  - **API Development:** Implemented RESTful endpoints following enterprise patterns
+  - **Data Analysis & Pattern Recognition:** Analyzed financial data to identify specific patterns critical for software engineering roles
+  - **Agile Methodologies:** Hands-on experience with agile methodologies and real-world project collaboration
+- **Skills Demonstrated:** Enterprise Java development, financial software architecture, API design, and collaborative development practices
 
 ### 📊 [DSA-Exp](https://github.com/Chirag8405/DSA-Exp)
 **Data Structures & Algorithms Implementation Hub**
@@ -140,10 +143,10 @@ I'm a **Full-Stack Developer** and **AI/ML Enthusiast** passionate about buildin
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chiragpoornamath@netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-poornamath-a8b114305)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_chirag_8405/profilecard/?igsh=aWV5MW93NnhiNXZi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragpoornamath@gmail.com)
 
 </div>
 
