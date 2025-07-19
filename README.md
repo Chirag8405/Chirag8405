@@ -1,95 +1,160 @@
-<!-- Profile README for @Chirag8405 -->
+# Hi there, I'm Chirag! 👋
 
-<!-- GitHub Readme Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=radical&count_private=true" alt="Chirag's GitHub Stats" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+Modern+Web+Apps;Passionate+Problem+Solver)](https://git.io/typing-svg)
+
 </div>
 
-# Hi there, I’m Chirag Poornamath 👋
+## 🚀 About Me
 
-I’m a **Full-Stack Developer** and **AI/ML Enthusiast** building modern, performant web apps and intelligent systems. With a strong foundation in JavaScript/TypeScript, Python, and Java, I bridge the gap between user-facing experiences and robust backends.  
+I'm a **Full-Stack Developer** and **AI/ML Enthusiast** passionate about building modern, performant web applications and intelligent systems. With a strong foundation in **JavaScript/TypeScript**, **Python**, and **Java**, I bridge the gap between exceptional user experiences and robust backend architectures.
 
----
-
-## ⭐️ Featured Projects
-
-- **StudySphere_v2**  
-  A full‑stack student dashboard for attendance & assignment management, built with React 18, TypeScript, TailwindCSS & Express, backed by SQLite.  
-  - JWT‑powered auth, role‑based access, 🗓 attendance analytics & Recharts visualizations  
-  - Dark/Light mode, responsive design, lazy loading & code splitting for peak performance  
-  - Automated CI/CD via Netlify + Docker support  
-  :contentReference[oaicite:0]{index=0}
-
-- **Portfolio**  
-  A custom portfolio site showcasing my projects and blog, built with Vite, React, TypeScript & Tailwind, deployed on Netlify with serverless functions.  
-  - Modular component architecture, Markdown‑driven blog, multi‑agent UI exploration  
-  - End‑to‑end TypeScript, ESLint/Prettier, and CI pipeline  
-  :contentReference[oaicite:1]{index=1}
-
-- **AI-Object-Detector**  
-  A Python desktop app leveraging YOLOv3 for real‑time object detection.  
-  - Core detection logic in `detector.py`, intuitive UI in `ui.py`, served via `app.py`  
-  - Requirements: OpenCV, PyTorch, Streamlit (optional)  
-  :contentReference[oaicite:2]{index=2}
-
-- **forage-midas**  
-  JPMC Advanced Software Engineering Forage program project (Java).  
-  - Enterprise‑grade code patterns, clean architecture, JUnit tests & RESTful endpoints  
-  - Forked from Vagabond‑Systems; extended with custom features
-
-- **DSA-Exp**  
-  Hands‑on Data Structures & Algorithms experiments.  
-  - Implementations of graphs, trees, sorting & dynamic programming  
-  - Focus on time/space complexity and clean, commented code
+🔭 Currently exploring AI-powered web integrations, advanced TypeScript patterns, and cloud-native architectures  
+🌱 Always learning and staying updated with the latest tech trends  
+💡 Love solving complex problems with clean, efficient code  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Featured Projects
+
+### 🎓 [StudySphere_v2](https://github.com/Chirag8405/StudySphere_v2)
+**Full-Stack Student Dashboard for Attendance & Assignment Management**
+- **Tech Stack:** React 18, TypeScript, TailwindCSS, Express.js, SQLite
+- **Key Features:**
+  - JWT-powered authentication with role-based access control
+  - Interactive attendance analytics with Recharts visualizations
+  - Dark/Light mode with responsive design
+  - Performance optimizations: lazy loading & code splitting
+  - Automated CI/CD pipeline via Netlify + Docker support
+
+### 💼 [Portfolio](https://github.com/Chirag8405/Portfolio)
+**Modern Portfolio Website with Blog Integration**
+- **Tech Stack:** Vite, React, TypeScript, TailwindCSS, Netlify Functions
+- **Key Features:**
+  - Modular component architecture
+  - Markdown-driven blog system
+  - Multi-agent UI exploration
+  - End-to-end TypeScript with ESLint/Prettier
+  - Seamless CI/CD deployment pipeline
+
+### 🤖 [AI-Object-Detector](https://github.com/Chirag8405/AI-Object-Detector)
+**Real-Time Object Detection Desktop Application**
+- **Tech Stack:** Python, YOLOv3, OpenCV, PyTorch, Streamlit
+- **Key Features:**
+  - Real-time object detection and classification
+  - Intuitive desktop UI with `ui.py`
+  - Core detection algorithms in `detector.py`
+  - Optional Streamlit web interface
+
+### 🏦 [forage-midas](https://github.com/Chirag8405/forage-midas)
+**Enterprise Java Application - JPMC Software Engineering**
+- **Tech Stack:** Java, JUnit, RESTful APIs
+- **Key Features:**
+  - Enterprise-grade code patterns
+  - Clean architecture implementation
+  - Comprehensive JUnit test coverage
+  - RESTful API endpoints with robust error handling
+
+### 📊 [DSA-Exp](https://github.com/Chirag8405/DSA-Exp)
+**Data Structures & Algorithms Implementation Hub**
+- **Tech Stack:** Multiple languages for algorithm comparison
+- **Key Features:**
+  - Graph and tree data structure implementations
+  - Sorting algorithms with performance analysis
+  - Dynamic programming solutions
+  - Clean, well-commented code with complexity analysis
+
+---
+
+## 💻 Tech Stack
 
 <details>
-<summary>Click to expand</summary>
+<summary><b>🌐 Frontend Development</b></summary>
 
-**Languages:**  
- • JavaScript (ES6+) • TypeScript • Python • Java • SQL  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Frontend:**  
- • React • Vite • TailwindCSS • Shadcn/UI • Recharts • React Query  
+</details>
 
-**Backend & APIs:**  
- • Node.js • Express.js • SQLite • Netlify Functions • Docker • JWT & bcrypt • Zod  
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
 
-**AI / ML:**  
- • Python • OpenCV • PyTorch • YOLOv3 • TensorFlow (familiar)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Dev & Deployment:**  
- • Git & GitHub • GitHub Actions • Netlify • Docker & Docker Compose • Turso  
+</details>
 
-**Tooling:**  
- • VS Code • ESLint • Prettier • Vitest • Postman • OpenSSL
+<details>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </details>
 
 ---
 
-## 📈 GitHub Contribution Streak
+## 📈 GitHub Analytics
 
-![Profile Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=radical&hide_border=true)
-
----
-
-## 🚀 Current Focus & Future Plans
-
-I’m continuously exploring **AI‑powered web integrations**, advanced **TypeScript** patterns, and **cloud‑native architectures**. Next up:
-- Integrate **GraphQL** & microservices into StudySphere_v2  
-- Build a **mobile companion app** with React Native  
-- Contribute to open‑source AI frameworks and deepen my knowledge in **Tortoise** & **Bark** TTS models  
-
-Feel free to explore my repos, open issues or discussions, and reach out!  
-
----
-
-<div align="center">  
-  📫 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@ChiragPoornamath-blue?logo=linkedin)](https://linkedin.com/in/chiragpoornamath)  
-  [![Mail](https://img.shields.io/badge/Email-chirag.poornamath%40gmail.com-red?logo=gmail)](mailto:chirag.poornamath@gmail.com)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag8405&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Current Goals & Future Plans
+
+🚀 **Next on my roadmap:**
+- **GraphQL & Microservices Integration:** Enhancing StudySphere_v2 with modern API architectures
+- **Mobile Development:** Building a React Native companion app for cross-platform reach  
+- **Open Source Contributions:** Contributing to AI frameworks and deepening knowledge in Tortoise & Bark TTS models
+- **Cloud-Native Architecture:** Exploring serverless computing and containerization best practices
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirag8405&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  💡 *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."*
+</div>
+
+---
+
+⭐ **Feel free to explore my repositories, open issues or discussions, and reach out for collaboration opportunities!**
