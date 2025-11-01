@@ -313,7 +313,7 @@ Tech: React, Express, Docker
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" />
 
 <!-- 🐍 Snake Contribution Animation -->
-<img src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 

@@ -12,9 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Chirag8405
-          outputs: dist/github-contribution-grid-snake.svg
-          palette: github-dark
-          background: transparent
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&background=0d1117
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
