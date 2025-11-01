@@ -160,24 +160,24 @@ Tech: React, Leaflet, Ollama AI
 <tr>
 <td width="50%">
 
-### 💹 InvestMitra
-**Smart Trading Platform**
+### ⚡ TaskFlow
+**Real-Time Collaboration**
 
-Mobile-first trading simulator with **live market data** and AI-powered investment insights for risk-free learning.
+Trello-inspired Kanban with **WebSocket-powered** live updates and multi-user synchronization.
 
 ```yaml
-Market: Live Alpha Vantage integration
-AI: Pattern recognition & insights
-Tech: React, Vite, TanStack Query
+Architecture: Event-driven + WebSockets
+Deployment: Vercel + Render + MongoDB
+Tech: React, Socket.io, Node.js
 ```
 
-**Platform:**
-- ✓ Virtual portfolio management
-- ✓ Real-time market simulation
-- ✓ AI trading recommendations
-- ✓ Educational content library
+**Real-time:**
+- ✓ Instant cross-user updates
+- ✓ Drag-and-drop interface
+- ✓ Live presence indicators
+- ✓ Role-based permissions
 
-[View Project →](https://github.com/Chirag8405/InvestMitra)
+[View Project →](https://github.com/Chirag8405/TaskFlow)
 
 </td>
 <td width="50%">
@@ -207,48 +207,6 @@ Tech: React, Express, Docker
 <tr>
 <td width="50%">
 
-### ⚡ TaskFlow
-**Real-Time Collaboration**
-
-Trello-inspired Kanban with **WebSocket-powered** live updates and multi-user synchronization.
-
-```yaml
-Architecture: Event-driven + WebSockets
-Deployment: Vercel + Render + MongoDB
-Tech: React, Socket.io, Node.js
-```
-
-**Real-time:**
-- ✓ Instant cross-user updates
-- ✓ Drag-and-drop interface
-- ✓ Live presence indicators
-- ✓ Role-based permissions
-
-[View Project →](https://github.com/Chirag8405/TaskFlow)
-
-</td>
-<td width="50%">
-
-### 📁 College Vault
-**Secure Document Manager**
-
-Production-ready document system with **dual-channel OTP** authentication via email and SMS.
-
-```yaml
-Security: Email + SMS OTP verification
-Encryption: bcrypt + JWT tokens
-Tech: React, Express, Twilio
-```
-
-**Security:**
-- ✓ Dual-channel authentication
-- ✓ Password + OTP verification
-- ✓ Encrypted document storage
-- ✓ Session timeout management
-
-[View Project →](https://github.com/Chirag8405/CollegeVault)
-
-</td>
 </tr>
 </table>
 
