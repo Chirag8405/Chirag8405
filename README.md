@@ -203,11 +203,6 @@ Tech: React, Express, Docker
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-</tr>
 </table>
 
 ---
