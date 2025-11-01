@@ -456,7 +456,7 @@ Created **Krushi-Sathi** bridging digital divide for farmers in 7 Indian languag
 Analyzed **209K+ accidents** with CrashInsight for data-driven road safety
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/ocean.png" width="60"/>
+<img src="https://img.icons8.com/color/96/000000/microscope.png" width="60"/>
 
 **Environmental Tech**
 
