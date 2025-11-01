@@ -15,13 +15,6 @@
 
 Full-Stack Developer and AI/ML Engineer specializing in **privacy-first, production-ready solutions** that solve real-world challenges. With expertise spanning modern web frameworks, machine learning systems, and cloud-native architectures, I build applications that don't just work—they **scale, perform, and empower users**.
 
-**What I Do:**
-- 🏥 **Healthcare AI:** Offline-first diagnostic systems for rural communities
-- 🌾 **AgriTech:** Voice-powered farming assistance in multiple languages  
-- 🚗 **Public Safety:** ML-driven traffic analytics with 200K+ dataset analysis
-- 💹 **FinTech:** Trading simulators with real-time market integration
-- 🌊 **Environmental Tech:** Marine intelligence platforms for research
-
 <br clear="right"/>
 
 ```typescript
