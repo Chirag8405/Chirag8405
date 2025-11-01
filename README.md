@@ -307,13 +307,25 @@ Tech: React, Express, Docker
 <div align="center">
 
 <!-- 🔹 GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6366F1&icon_color=6366F1&text_color=333333">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</picture>
 
 <!-- 🔹 Contribution Graph -->
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true&bg_color=ffffff&color=6366F1&line=6366F1&point=333333">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</picture>
 
 <!-- 🐍 Snake Contribution Animation -->
-<img src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
 
 </div>
 
