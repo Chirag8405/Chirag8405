@@ -135,31 +135,6 @@ Tech: React, Google Gemini, PWA
 </td>
 <td width="50%">
 
-### 🌊 OceanOS
-**Marine Intelligence Platform**
-
-Government-grade marine research system with **AI species identification** and collaborative data management.
-
-```yaml
-Purpose: Sustainable ocean research
-Users: Marine biologists, officials
-Tech: React, Leaflet, Ollama AI
-```
-
-**Capabilities:**
-- ✓ AI-powered species identification
-- ✓ Geospatial data visualization
-- ✓ Real-time environmental monitoring
-- ✓ Role-based research collaboration
-
-[View Project →](https://github.com/Chirag8405/OceanOS)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### 💹 InvestMitra
 **Smart Trading Platform**
 
@@ -229,27 +204,6 @@ Tech: React, Socket.io, Node.js
 </td>
 <td width="50%">
 
-### 📁 College Vault
-**Secure Document Manager**
-
-Production-ready document system with **dual-channel OTP** authentication via email and SMS.
-
-```yaml
-Security: Email + SMS OTP verification
-Encryption: bcrypt + JWT tokens
-Tech: React, Express, Twilio
-```
-
-**Security:**
-- ✓ Dual-channel authentication
-- ✓ Password + OTP verification
-- ✓ Encrypted document storage
-- ✓ Session timeout management
-
-[View Project →](https://github.com/Chirag8405/CollegeVault)
-
-</td>
-</tr>
 </table>
 
 ---
