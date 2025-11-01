@@ -306,11 +306,14 @@ Tech: React, Express, Docker
 
 <div align="center">
 
+<!-- 🔹 GitHub Stats -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag8405&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" />
+<!-- 🔹 Contribution Graph -->
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" />
+
+<!-- 🐍 Snake Contribution Animation -->
+<img src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
