@@ -58,8 +58,6 @@ const chirag = {
 };
 ```
 
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -70,7 +68,6 @@ const chirag = {
 | 🌊 **[OceanOS](https://github.com/Chirag8405/OceanOS)** | AI-driven Marine Monitoring System to detect anomalies and pollution patterns. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff) |
 | 🗂️ **[TaskFlow](https://github.com/Chirag8405/TaskFlow)** | Smart full-stack productivity tracker with task analytics and dashboards. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff) |
 
----
 ## 💼 Professional Experience
 
 <details>
@@ -108,8 +105,6 @@ const chirag = {
 `Java 11+` `Spring Boot` `JPA/Hibernate` `RESTful APIs` `JUnit` `Maven` `Git` `Agile/Scrum` `Financial Systems` `Microservices`
 
 </details>
-
----
 
 ## 🛠️ Technical Arsenal
 
@@ -164,8 +159,6 @@ const chirag = {
 
 </div>
 
----
-
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
@@ -192,7 +185,6 @@ const chirag = {
 </picture>
 
 </div>
----
 
 ## 🌟 What Sets Me Apart
 
@@ -218,8 +210,8 @@ production_mindset:
   documentation: "Comprehensive README, API docs, architecture diagrams"
   scalability: "Designed for 10K+ concurrent users from day one"
 ```
----
 
+<br/>
 
 <div align="center">
 
@@ -227,7 +219,8 @@ production_mindset:
 
 </div>
 
----
+<br/>
+
 
 ## 📫 Let's Connect
 
@@ -237,13 +230,13 @@ production_mindset:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragpoornamath@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](chiragpoornamath.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 **Open to collaboration on impactful projects**  
 </div>
 
----
-
 <div align="center">
+<br/>
 
 ### 🌟 Explore My Work
 Each project includes comprehensive documentation, deployment guides, and architectural decisions.
