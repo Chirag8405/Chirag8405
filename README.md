@@ -60,153 +60,17 @@ const chirag = {
 
 ---
 
-## 🎯 Signature Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 AarogyaSense
-**AI Healthcare Platform**
-
-Privacy-first diagnostic system for rural healthcare with **local AI inference** and **offline-first architecture**.
-
-```yaml
-Impact: Empowering 10K+ health workers
-Tech: SvelteKit, TensorFlow.js, Prisma
-Innovation: Zero patient data transmission
-```
-
-**Achievements:**
-- ✓ Multimodal AI (image/voice/text)
-- ✓ 7+ Indian languages supported
-- ✓ WCAG 2.1 accessibility compliant
-- ✓ SMS/voice alerts via Twilio
-
-[View Project →](https://github.com/Chirag8405/AarogyaSense)
-
-</td>
-<td width="50%">
-
-### 🚗 CrashInsight
-**Traffic Analytics Platform**
-
-ML-powered accident analysis using **209K+ real records** with predictive modeling and pattern recognition.
-
-```yaml
-Dataset: 209,000+ Chicago accidents
-Accuracy: 67% collision prediction
-Tech: React, Python, scikit-learn
-```
-
-**Discoveries:**
-- ✓ Peak danger: 5-7 PM rush hours
-- ✓ High-risk intersections identified
-- ✓ Weather-collision correlations
-- ✓ Association rule mining
-
-[View Project →](https://github.com/Chirag8405/CrashInsight)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌾 Krushi-Sathi
-**Agricultural AI Assistant**
-
-Voice-powered farming guidance in **7 Indian languages** with crop disease detection and offline PWA capabilities.
-
-```yaml
-Users: Farmers across India
-Languages: EN, HI, ML, MR, KN, GU, TE
-Tech: React, Google Gemini, PWA
-```
-
-**Features:**
-- ✓ Voice recognition & synthesis
-- ✓ Image-based disease detection
-- ✓ Real-time weather & prices
-- ✓ Government scheme updates
-
-[View Project →](https://github.com/Chirag8405/Krushi-Sathi)
-
-</td>
-<td width="50%">
-
-### 🌊 OceanOS
-**Marine Intelligence Platform**
-
-Government-grade marine research system with **AI species identification** and collaborative data management.
-
-```yaml
-Purpose: Sustainable ocean research
-Users: Marine biologists, officials
-Tech: React, Leaflet, Ollama AI
-```
-
-**Capabilities:**
-- ✓ AI-powered species identification
-- ✓ Geospatial data visualization
-- ✓ Real-time environmental monitoring
-- ✓ Role-based research collaboration
-
-[View Project →](https://github.com/Chirag8405/OceanOS)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ TaskFlow
-**Real-Time Collaboration**
-
-Trello-inspired Kanban with **WebSocket-powered** live updates and multi-user synchronization.
-
-```yaml
-Architecture: Event-driven + WebSockets
-Deployment: Vercel + Render + MongoDB
-Tech: React, Socket.io, Node.js
-```
-
-**Real-time:**
-- ✓ Instant cross-user updates
-- ✓ Drag-and-drop interface
-- ✓ Live presence indicators
-- ✓ Role-based permissions
-
-[View Project →](https://github.com/Chirag8405/TaskFlow)
-
-</td>
-<td width="50%">
-
-### 🍳 FridgeChef
-**AI Recipe Generator**
-
-GPT-4 powered recipe platform transforming **ingredients into meals** with personalized cooking guidance.
-
-```yaml
-AI: OpenAI GPT-4 integration
-Database: PostgreSQL via Neon
-Tech: React, Express, Docker
-```
-
-**Experience:**
-- ✓ Ingredient-based generation
-- ✓ Step-by-step instructions
-- ✓ Recipe history & ratings
-- ✓ Dietary preference filters
-
-[View Project →](https://github.com/Chirag8405/FridgeChef_FSD)
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🏥 **[AarogyaSense](https://github.com/Chirag8405/AarogyaSense)** | Privacy-first AI Healthcare platform for rural diagnostics with local inference and offline-first architecture. | ![SvelteKit](https://img.shields.io/badge/SvelteKit-F73C00?logo=svelte&logoColor=fff) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=fff) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff) |
+| 🚗 **[CrashInsight](https://github.com/Chirag8405/CrashInsight)** | Advanced ML-based Traffic Accident Analysis System for spatial pattern recognition and clustering. | ![Flask](https://img.shields.io/badge/Flask-000?logo=flask) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff) ![Mapbox](https://img.shields.io/badge/Mapbox-000?logo=mapbox) |
+| 🌾 **[Krushi-Sathi](https://github.com/Chirag8405/Krushi-Sathi)** | Smart AI Assistant for farmers — crop prediction, soil analysis & weather insights. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask) |
+| 🌊 **[OceanOS](https://github.com/Chirag8405/OceanOS)** | AI-driven Marine Monitoring System to detect anomalies and pollution patterns. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff) |
+| 🗂️ **[TaskFlow](https://github.com/Chirag8405/TaskFlow)** | Smart full-stack productivity tracker with task analytics and dashboards. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff) |
 
 ---
-
 ## 💼 Professional Experience
 
 <details>
@@ -328,146 +192,6 @@ Tech: React, Express, Docker
 </picture>
 
 </div>
-
----
-
-## 🎯 Expertise Matrix
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend Mastery
-```diff
-+ React 18 Ecosystem          ████████████ 95%
-+ TypeScript Development       ████████████ 95%
-+ Modern CSS (Tailwind)        ███████████░ 90%
-+ State Management             ███████████░ 90%
-+ Progressive Web Apps         ██████████░░ 85%
-+ Responsive Design            ████████████ 95%
-+ Performance Optimization     ███████████░ 90%
-+ Accessibility (WCAG 2.1)     ██████████░░ 85%
-```
-
-### Backend Engineering
-```diff
-+ RESTful API Design           ████████████ 95%
-+ Node.js/Express              ████████████ 95%
-+ Database Design              ███████████░ 90%
-+ Authentication (JWT)         ████████████ 95%
-+ Real-time (WebSockets)       ███████████░ 90%
-+ Microservices                ██████████░░ 85%
-+ API Documentation            ███████████░ 90%
-+ Error Handling               ████████████ 95%
-```
-
-</td>
-<td width="50%" valign="top">
-
-### AI/ML Integration
-```diff
-+ TensorFlow.js                ███████████░ 90%
-+ OpenAI API Integration       ████████████ 95%
-+ Model Deployment             ██████████░░ 85%
-+ Data Preprocessing           ███████████░ 90%
-+ Computer Vision              ██████████░░ 80%
-+ NLP & Voice Processing       ██████████░░ 85%
-+ ML Pipeline Design           ███████████░ 88%
-+ Privacy-First AI             ████████████ 95%
-```
-
-### DevOps & Deployment
-```diff
-+ Docker Containerization      ███████████░ 90%
-+ CI/CD Pipelines              ███████████░ 90%
-+ Cloud Deployment             ██████████░░ 85%
-+ Git Version Control          ████████████ 95%
-+ Monitoring & Logging         ██████████░░ 80%
-+ Database Migrations          ███████████░ 88%
-+ Security Best Practices      ███████████░ 90%
-+ Performance Tuning           ██████████░░ 85%
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Notable Achievements & Impact
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/hospital-3.png" width="60"/>
-
-**Healthcare Innovation**
-
-Built **AarogyaSense** serving rural healthcare workers with privacy-first AI diagnostics
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/tractor.png" width="60"/>
-
-**Agricultural Impact**
-
-Created **Krushi-Sathi** bridging digital divide for farmers in 7 Indian languages
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/traffic-jam.png" width="60"/>
-
-**Public Safety**
-
-Analyzed **209K+ accidents** with CrashInsight for data-driven road safety
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/microscope.png" width="60"/>
-
-**Environmental Tech**
-
-Designed **OceanOS** for sustainable marine research and conservation
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Architectural Philosophy
-
-<table>
-<tr>
-<td width="33%">
-
-### System Design
-- **Microservices** for scalability
-- **Event-Driven** for real-time
-- **Serverless** for cost efficiency
-- **Offline-First** for resilience
-- **PWA** for cross-platform
-
-</td>
-<td width="33%">
-
-### Code Quality
-- **TypeScript** for type safety
-- **Testing** with Vitest/Jest
-- **Linting** with ESLint
-- **Formatting** with Prettier
-- **Documentation** first approach
-
-</td>
-<td width="33%">
-
-### Security & Privacy
-- **Privacy by Design**
-- **JWT + Refresh Tokens**
-- **bcrypt** password hashing
-- **SQL Injection** prevention
-- **Environment** security
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🌟 What Sets Me Apart
@@ -494,36 +218,6 @@ production_mindset:
   documentation: "Comprehensive README, API docs, architecture diagrams"
   scalability: "Designed for 10K+ concurrent users from day one"
 ```
-
----
-
-## 🚀 Current Focus & Learning
-
-<table>
-<tr>
-<td width="50%">
-
-### Active Development
-- 🏥 Building AI-powered healthcare solutions
-- 🌾 Exploring edge AI for agriculture
-- 🔐 Privacy-preserving ML techniques
-- 🌐 Multilingual voice interfaces
-- ⚡ Real-time collaborative systems
-
-</td>
-<td width="50%">
-
-### Research Interests
-- 🤖 Federated Learning architectures
-- 🔬 Multimodal AI (image/voice/text)
-- 🏗️ Offline-first system design
-- 🌍 Accessible tech for rural areas
-- 🔒 Privacy-first AI deployment
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 💬 Philosophy & Approach
@@ -550,32 +244,10 @@ I don't just build applications—I craft **experiences**. Every project is appr
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chirag8405)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragpoornamath@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](chiragpoornamath.netlify.app)
 
-**Open to collaboration on impactful projects in:**  
-Healthcare • Agriculture • Finance • Environmental Technology • Education
-
-</div>
-
----
-
-## 🎯 Quick Stats
-
-<div align="center">
-
-| Metric | Achievement |
-|--------|-------------|
-| **Production Apps** | 8+ deployed applications |
-| **Languages** | TypeScript, JavaScript, Python, Java |
-| **AI Models Deployed** | 5+ (TensorFlow.js, OpenAI, Gemini) |
-| **Database Systems** | PostgreSQL, MongoDB, SQLite |
-| **Users Impacted** | 10K+ across healthcare & agriculture |
-| **Lines of Code** | 100K+ across all projects |
-| **Code Quality** | 90%+ test coverage on critical paths |
-| **Deployment Success** | 99.9% uptime on production systems |
-
+**Open to collaboration on impactful projects**  
 </div>
 
 ---
@@ -583,16 +255,9 @@ Healthcare • Agriculture • Finance • Environmental Technology • Educatio
 <div align="center">
 
 ### 🌟 Explore My Work
-
-**Pin your favorite repositories and watch them come to life!**
-
 Each project includes comprehensive documentation, deployment guides, and architectural decisions.
-
-![Visitor Count](https://profile-counter.glitch.me/Chirag8405/count.svg)
-
 </div>
 
----
 
 <div align="center">
   
