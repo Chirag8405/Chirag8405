@@ -220,21 +220,12 @@ production_mindset:
 ```
 ---
 
-## 💬 Philosophy & Approach
 
 <div align="center">
 
 ### *"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."*
 
 </div>
-
-I don't just build applications—I craft **experiences**. Every project is approached with:
-
-- **User-Centric Design:** Technology should empower, not complicate
-- **Privacy First:** Users own their data, period
-- **Accessibility:** Everyone deserves access to technology
-- **Production Ready:** Code that's tested, documented, and deployable
-- **Impact Focused:** Solving real problems for real people
 
 ---
 
@@ -256,13 +247,4 @@ I don't just build applications—I craft **experiences**. Every project is appr
 
 ### 🌟 Explore My Work
 Each project includes comprehensive documentation, deployment guides, and architectural decisions.
-</div>
-
-
-<div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling)
-
-**"Building the future, one commit at a time"**
-
 </div>
