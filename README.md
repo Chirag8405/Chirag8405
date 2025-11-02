@@ -68,43 +68,6 @@ const chirag = {
 | 🌊 **[OceanOS](https://github.com/Chirag8405/OceanOS)** | AI-driven Marine Monitoring System to detect anomalies and pollution patterns. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) ![Flask](https://img.shields.io/badge/Flask-000?logo=flask) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff) |
 | 🗂️ **[TaskFlow](https://github.com/Chirag8405/TaskFlow)** | Smart full-stack productivity tracker with task analytics and dashboards. | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff) |
 
-## 💼 Professional Experience
-
-<details>
-<summary><b>JPMorgan Chase - Software Engineering Virtual Experience</b> (Click to expand)</summary>
-
-<br>
-
-**Program:** Advanced Software Engineering Virtual Experience via Forage  
-**Duration:** Intensive 5-week program  
-**Focus:** Enterprise Java Development & Financial Systems
-
-### Key Contributions
-
-**Midas Core Integration**
-- Integrated incentives API with enterprise financial systems
-- Implemented RESTful endpoints following Spring Boot best practices
-- Ensured data consistency across microservices architecture
-
-**Enterprise Development**
-- Developed production-grade Java components using SOLID principles
-- Applied design patterns: Factory, Strategy, Observer
-- Maintained code quality with JUnit test coverage >80%
-
-**Financial Data Analysis**
-- Analyzed patterns in financial datasets using SQL and Java
-- Implemented data processing pipelines for real-time analytics
-- Optimized query performance for high-volume transactions
-
-**Agile Collaboration**
-- Participated in sprint planning and daily standups
-- Code reviews and pair programming sessions
-- Documentation using Confluence and JIRA
-
-### Technologies & Skills
-`Java 11+` `Spring Boot` `JPA/Hibernate` `RESTful APIs` `JUnit` `Maven` `Git` `Agile/Scrum` `Financial Systems` `Microservices`
-
-</details>
 
 ## 🛠️ Technical Arsenal
 
@@ -227,10 +190,10 @@ production_mindset:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chirag8405)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragpoornamath/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiragpoornamath@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](chiragpoornamath.netlify.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chirag_8405/)
 
 **Open to collaboration on impactful projects**  
 </div>
