@@ -1,37 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="42" viewBox="0 0 746 42" overflow="hidden">
   <style>
-    .scroll-left {
-      animation: scroll-l 20s linear infinite;
-    }
-    @keyframes scroll-l {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
-    }
-    .badge { rx: 4; ry: 4; height: 28; y: 4; }
-    .badge-text {
-      fill: #fff;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      font-size: 12px;
-      font-weight: 600;
-      dominant-baseline: central;
-    }
+    .scroll { animation: s 18s linear infinite; }
+    @keyframes s { 0%{transform:translateX(0)} 100%{transform:translateX(-776px)} }
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; dominant-baseline: central; }
   </style>
-  <g class="scroll-left">
-    <!-- First set -->
-    <rect class="badge" x="0" width="100" fill="#3178C6"/><text class="badge-text" x="50" y="18" text-anchor="middle">TypeScript</text>
-    <rect class="badge" x="110" width="92" fill="#F7DF1E"/><text class="badge-text" x="156" y="18" text-anchor="middle" fill="#000">JavaScript</text>
-    <rect class="badge" x="212" width="72" fill="#3776AB"/><text class="badge-text" x="248" y="18" text-anchor="middle">Python</text>
-    <rect class="badge" x="294" width="56" fill="#ED8B00"/><text class="badge-text" x="322" y="18" text-anchor="middle">Java</text>
-    <rect class="badge" x="360" width="66" fill="#61DAFB"/><text class="badge-text" x="393" y="18" text-anchor="middle" fill="#000">React</text>
-    <rect class="badge" x="436" width="70" fill="#FF3E00"/><text class="badge-text" x="471" y="18" text-anchor="middle">Svelte</text>
-    <rect class="badge" x="516" width="72" fill="#000000"/><text class="badge-text" x="552" y="18" text-anchor="middle">Next.js</text>
-    <!-- Duplicate set for seamless loop -->
-    <rect class="badge" x="620" width="100" fill="#3178C6"/><text class="badge-text" x="670" y="18" text-anchor="middle">TypeScript</text>
-    <rect class="badge" x="730" width="92" fill="#F7DF1E"/><text class="badge-text" x="776" y="18" text-anchor="middle" fill="#000">JavaScript</text>
-    <rect class="badge" x="832" width="72" fill="#3776AB"/><text class="badge-text" x="868" y="18" text-anchor="middle">Python</text>
-    <rect class="badge" x="914" width="56" fill="#ED8B00"/><text class="badge-text" x="942" y="18" text-anchor="middle">Java</text>
-    <rect class="badge" x="980" width="66" fill="#61DAFB"/><text class="badge-text" x="1013" y="18" text-anchor="middle" fill="#000">React</text>
-    <rect class="badge" x="1056" width="70" fill="#FF3E00"/><text class="badge-text" x="1091" y="18" text-anchor="middle">Svelte</text>
-    <rect class="badge" x="1136" width="72" fill="#000000"/><text class="badge-text" x="1172" y="18" text-anchor="middle">Next.js</text>
+  <g class="scroll">
+    <!-- TypeScript -->
+    <rect x="0" y="1" width="118" height="40" rx="6" fill="#3178C6"/>
+    <rect x="0" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="6" y="1" width="26" height="40" fill="#555"/>
+    <text x="16" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">TS</text>
+    <text x="75" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">TypeScript</text>
+    <!-- JavaScript -->
+    <rect x="128" y="1" width="116" height="40" rx="6" fill="#F7DF1E"/>
+    <rect x="128" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="134" y="1" width="26" height="40" fill="#555"/>
+    <text x="144" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">JS</text>
+    <text x="202" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">JavaScript</text>
+    <!-- Python -->
+    <rect x="254" y="1" width="96" height="40" rx="6" fill="#3776AB"/>
+    <rect x="254" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="260" y="1" width="26" height="40" fill="#555"/>
+    <text x="270" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Py</text>
+    <text x="318" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Python</text>
+    <!-- Java -->
+    <rect x="360" y="1" width="82" height="40" rx="6" fill="#ED8B00"/>
+    <rect x="360" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="366" y="1" width="26" height="40" fill="#555"/>
+    <text x="376" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Jv</text>
+    <text x="417" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Java</text>
+    <!-- React -->
+    <rect x="452" y="1" width="88" height="40" rx="6" fill="#61DAFB"/>
+    <rect x="452" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="458" y="1" width="26" height="40" fill="#555"/>
+    <text x="468" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Re</text>
+    <text x="512" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">React</text>
+    <!-- Svelte -->
+    <rect x="550" y="1" width="90" height="40" rx="6" fill="#FF3E00"/>
+    <rect x="550" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="556" y="1" width="26" height="40" fill="#555"/>
+    <text x="566" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Sv</text>
+    <text x="611" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Svelte</text>
+    <!-- Next.js -->
+    <rect x="650" y="1" width="96" height="40" rx="6" fill="#000"/>
+    <rect x="650" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="656" y="1" width="26" height="40" fill="#555"/>
+    <text x="666" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Nx</text>
+    <text x="714" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Next.js</text>
+
+    <!-- Duplicate set (+776) -->
+    <rect x="776" y="1" width="118" height="40" rx="6" fill="#3178C6"/>
+    <rect x="776" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="782" y="1" width="26" height="40" fill="#555"/>
+    <text x="792" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">TS</text>
+    <text x="851" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">TypeScript</text>
+
+    <rect x="904" y="1" width="116" height="40" rx="6" fill="#F7DF1E"/>
+    <rect x="904" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="910" y="1" width="26" height="40" fill="#555"/>
+    <text x="920" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">JS</text>
+    <text x="978" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">JavaScript</text>
+
+    <rect x="1030" y="1" width="96" height="40" rx="6" fill="#3776AB"/>
+    <rect x="1030" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1036" y="1" width="26" height="40" fill="#555"/>
+    <text x="1046" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Py</text>
+    <text x="1094" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Python</text>
+
+    <rect x="1136" y="1" width="82" height="40" rx="6" fill="#ED8B00"/>
+    <rect x="1136" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1142" y="1" width="26" height="40" fill="#555"/>
+    <text x="1152" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Jv</text>
+    <text x="1193" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Java</text>
+
+    <rect x="1228" y="1" width="88" height="40" rx="6" fill="#61DAFB"/>
+    <rect x="1228" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1234" y="1" width="26" height="40" fill="#555"/>
+    <text x="1244" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Re</text>
+    <text x="1288" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#000">React</text>
+
+    <rect x="1326" y="1" width="90" height="40" rx="6" fill="#FF3E00"/>
+    <rect x="1326" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1332" y="1" width="26" height="40" fill="#555"/>
+    <text x="1342" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Sv</text>
+    <text x="1387" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Svelte</text>
+
+    <rect x="1426" y="1" width="96" height="40" rx="6" fill="#000"/>
+    <rect x="1426" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1432" y="1" width="26" height="40" fill="#555"/>
+    <text x="1442" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Nx</text>
+    <text x="1490" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Next.js</text>
   </g>
 </svg>

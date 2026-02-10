@@ -1,37 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
+<svg xmlns="http://www.w3.org/2000/svg" width="776" height="42" viewBox="0 0 776 42" overflow="hidden">
   <style>
-    .scroll-left {
-      animation: scroll-l 20s linear infinite;
-    }
-    @keyframes scroll-l {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
-    }
-    .badge { rx: 4; ry: 4; height: 28; y: 4; }
-    .badge-text {
-      fill: #fff;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      font-size: 12px;
-      font-weight: 600;
-      dominant-baseline: central;
-    }
+    .scroll { animation: s 20s linear infinite; }
+    @keyframes s { 0%{transform:translateX(0)} 100%{transform:translateX(-806px)} }
+    text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; dominant-baseline: central; }
   </style>
-  <g class="scroll-left">
-    <!-- First set -->
-    <rect class="badge" x="0" width="96" fill="#FF6F00"/><text class="badge-text" x="48" y="18" text-anchor="middle">TensorFlow</text>
-    <rect class="badge" x="106" width="76" fill="#EE4C2C"/><text class="badge-text" x="144" y="18" text-anchor="middle">PyTorch</text>
-    <rect class="badge" x="192" width="72" fill="#2496ED"/><text class="badge-text" x="228" y="18" text-anchor="middle">Docker</text>
-    <rect class="badge" x="274" width="56" fill="#232F3E"/><text class="badge-text" x="302" y="18" text-anchor="middle">AWS</text>
-    <rect class="badge" x="340" width="116" fill="#2088FF"/><text class="badge-text" x="398" y="18" text-anchor="middle">GitHub Actions</text>
-    <rect class="badge" x="466" width="104" fill="#06B6D4"/><text class="badge-text" x="518" y="18" text-anchor="middle">Tailwind CSS</text>
-    <rect class="badge" x="580" width="62" fill="#646CFF"/><text class="badge-text" x="611" y="18" text-anchor="middle">Vite</text>
-    <!-- Duplicate set for seamless loop -->
-    <rect class="badge" x="674" width="96" fill="#FF6F00"/><text class="badge-text" x="722" y="18" text-anchor="middle">TensorFlow</text>
-    <rect class="badge" x="780" width="76" fill="#EE4C2C"/><text class="badge-text" x="818" y="18" text-anchor="middle">PyTorch</text>
-    <rect class="badge" x="866" width="72" fill="#2496ED"/><text class="badge-text" x="902" y="18" text-anchor="middle">Docker</text>
-    <rect class="badge" x="948" width="56" fill="#232F3E"/><text class="badge-text" x="976" y="18" text-anchor="middle">AWS</text>
-    <rect class="badge" x="1014" width="116" fill="#2088FF"/><text class="badge-text" x="1072" y="18" text-anchor="middle">GitHub Actions</text>
-    <rect class="badge" x="1140" width="104" fill="#06B6D4"/><text class="badge-text" x="1192" y="18" text-anchor="middle">Tailwind CSS</text>
-    <rect class="badge" x="1254" width="62" fill="#646CFF"/><text class="badge-text" x="1285" y="18" text-anchor="middle">Vite</text>
+  <g class="scroll">
+    <!-- TensorFlow -->
+    <rect x="0" y="1" width="116" height="40" rx="6" fill="#FF6F00"/>
+    <rect x="0" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="6" y="1" width="26" height="40" fill="#555"/>
+    <text x="16" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">TF</text>
+    <text x="74" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">TensorFlow</text>
+    <!-- PyTorch -->
+    <rect x="126" y="1" width="98" height="40" rx="6" fill="#EE4C2C"/>
+    <rect x="126" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="132" y="1" width="26" height="40" fill="#555"/>
+    <text x="142" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">PT</text>
+    <text x="191" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">PyTorch</text>
+    <!-- Docker -->
+    <rect x="234" y="1" width="92" height="40" rx="6" fill="#2496ED"/>
+    <rect x="234" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="240" y="1" width="26" height="40" fill="#555"/>
+    <text x="250" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Dk</text>
+    <text x="296" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Docker</text>
+    <!-- AWS -->
+    <rect x="336" y="1" width="72" height="40" rx="6" fill="#232F3E"/>
+    <rect x="336" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="342" y="1" width="26" height="40" fill="#555"/>
+    <text x="352" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">A</text>
+    <text x="388" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">AWS</text>
+    <!-- GitHub Actions -->
+    <rect x="418" y="1" width="142" height="40" rx="6" fill="#2088FF"/>
+    <rect x="418" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="424" y="1" width="26" height="40" fill="#555"/>
+    <text x="434" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">GA</text>
+    <text x="505" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">GitHub Actions</text>
+    <!-- Tailwind CSS -->
+    <rect x="570" y="1" width="124" height="40" rx="6" fill="#06B6D4"/>
+    <rect x="570" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="576" y="1" width="26" height="40" fill="#555"/>
+    <text x="586" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Tw</text>
+    <text x="648" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Tailwind CSS</text>
+    <!-- Vite -->
+    <rect x="704" y="1" width="72" height="40" rx="6" fill="#646CFF"/>
+    <rect x="704" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="710" y="1" width="26" height="40" fill="#555"/>
+    <text x="720" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Vi</text>
+    <text x="756" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Vite</text>
+
+    <!-- Duplicate set (+806) -->
+    <rect x="806" y="1" width="116" height="40" rx="6" fill="#FF6F00"/>
+    <rect x="806" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="812" y="1" width="26" height="40" fill="#555"/>
+    <text x="822" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">TF</text>
+    <text x="880" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">TensorFlow</text>
+
+    <rect x="932" y="1" width="98" height="40" rx="6" fill="#EE4C2C"/>
+    <rect x="932" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="938" y="1" width="26" height="40" fill="#555"/>
+    <text x="948" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">PT</text>
+    <text x="997" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">PyTorch</text>
+
+    <rect x="1040" y="1" width="92" height="40" rx="6" fill="#2496ED"/>
+    <rect x="1040" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1046" y="1" width="26" height="40" fill="#555"/>
+    <text x="1056" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Dk</text>
+    <text x="1102" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Docker</text>
+
+    <rect x="1142" y="1" width="72" height="40" rx="6" fill="#232F3E"/>
+    <rect x="1142" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1148" y="1" width="26" height="40" fill="#555"/>
+    <text x="1158" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">A</text>
+    <text x="1194" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">AWS</text>
+
+    <rect x="1224" y="1" width="142" height="40" rx="6" fill="#2088FF"/>
+    <rect x="1224" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1230" y="1" width="26" height="40" fill="#555"/>
+    <text x="1240" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">GA</text>
+    <text x="1311" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">GitHub Actions</text>
+
+    <rect x="1376" y="1" width="124" height="40" rx="6" fill="#06B6D4"/>
+    <rect x="1376" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1382" y="1" width="26" height="40" fill="#555"/>
+    <text x="1392" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Tw</text>
+    <text x="1454" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Tailwind CSS</text>
+
+    <rect x="1510" y="1" width="72" height="40" rx="6" fill="#646CFF"/>
+    <rect x="1510" y="1" width="32" height="40" rx="6" fill="#555"/><rect x="1516" y="1" width="26" height="40" fill="#555"/>
+    <text x="1526" y="21" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Vi</text>
+    <text x="1562" y="21" text-anchor="middle" font-size="13" font-weight="500" fill="#fff">Vite</text>
   </g>
 </svg>

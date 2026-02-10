@@ -12,28 +12,25 @@ Full-stack developer and AI/ML engineer. I build privacy-first, offline-capable 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</picture>
+<a href="https://github.com/Chirag8405">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=radical&hide_border=true&background=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true" alt="GitHub Streak" />
-</picture>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=react-dark&hide_border=true&bg_color=0D1117">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-light.svg">
-  <img src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
+  <img width="98%" src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
 </picture>
 
 </div>
