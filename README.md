@@ -12,11 +12,6 @@ Full-stack developer and AI/ML engineer. I build privacy-first, offline-capable 
 
 <div align="center">
 
-<!-- GitHub Stats full width -->
-<a href="https://github.com/Chirag8405">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-</a>
-
 <br/>
 
 <!-- Streak and Graph side by side -->
