@@ -15,7 +15,11 @@ Full-stack developer and AI/ML engineer. I build privacy-first, offline-capable 
 <br/>
 
 <!-- Streak and Graph side by side -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true&background=FFFFFF">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true&background=FFFFFF" alt="GitHub Streak" />
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=react-dark&hide_border=true&bg_color=0D1117">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true">
