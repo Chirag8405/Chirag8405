@@ -12,25 +12,28 @@ Full-stack developer and AI/ML engineer. I build privacy-first, offline-capable 
 
 <div align="center">
 
+<!-- GitHub Stats full width -->
 <a href="https://github.com/Chirag8405">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=Chirag8405&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </a>
 
 <br/>
 
+<!-- Streak and Graph side by side -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag8405&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=react-dark&hide_border=true&bg_color=0D1117">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag8405&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </picture>
 
 <br/>
 
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake-light.svg">
-  <img width="98%" src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
+  <img width="98%" src="https://raw.githubusercontent.com/Chirag8405/Chirag8405/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </picture>
 
 </div>
