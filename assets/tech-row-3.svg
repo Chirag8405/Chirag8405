@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
+  <style>
+    .scroll-left {
+      animation: scroll-l 20s linear infinite;
+    }
+    @keyframes scroll-l {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .badge { rx: 4; ry: 4; height: 28; y: 4; }
+    .badge-text {
+      fill: #fff;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      dominant-baseline: central;
+    }
+  </style>
+  <g class="scroll-left">
+    <!-- First set -->
+    <rect class="badge" x="0" width="96" fill="#FF6F00"/><text class="badge-text" x="48" y="18" text-anchor="middle">TensorFlow</text>
+    <rect class="badge" x="106" width="76" fill="#EE4C2C"/><text class="badge-text" x="144" y="18" text-anchor="middle">PyTorch</text>
+    <rect class="badge" x="192" width="72" fill="#2496ED"/><text class="badge-text" x="228" y="18" text-anchor="middle">Docker</text>
+    <rect class="badge" x="274" width="56" fill="#232F3E"/><text class="badge-text" x="302" y="18" text-anchor="middle">AWS</text>
+    <rect class="badge" x="340" width="116" fill="#2088FF"/><text class="badge-text" x="398" y="18" text-anchor="middle">GitHub Actions</text>
+    <rect class="badge" x="466" width="104" fill="#06B6D4"/><text class="badge-text" x="518" y="18" text-anchor="middle">Tailwind CSS</text>
+    <rect class="badge" x="580" width="62" fill="#646CFF"/><text class="badge-text" x="611" y="18" text-anchor="middle">Vite</text>
+    <!-- Duplicate set for seamless loop -->
+    <rect class="badge" x="674" width="96" fill="#FF6F00"/><text class="badge-text" x="722" y="18" text-anchor="middle">TensorFlow</text>
+    <rect class="badge" x="780" width="76" fill="#EE4C2C"/><text class="badge-text" x="818" y="18" text-anchor="middle">PyTorch</text>
+    <rect class="badge" x="866" width="72" fill="#2496ED"/><text class="badge-text" x="902" y="18" text-anchor="middle">Docker</text>
+    <rect class="badge" x="948" width="56" fill="#232F3E"/><text class="badge-text" x="976" y="18" text-anchor="middle">AWS</text>
+    <rect class="badge" x="1014" width="116" fill="#2088FF"/><text class="badge-text" x="1072" y="18" text-anchor="middle">GitHub Actions</text>
+    <rect class="badge" x="1140" width="104" fill="#06B6D4"/><text class="badge-text" x="1192" y="18" text-anchor="middle">Tailwind CSS</text>
+    <rect class="badge" x="1254" width="62" fill="#646CFF"/><text class="badge-text" x="1285" y="18" text-anchor="middle">Vite</text>
+  </g>
+</svg>

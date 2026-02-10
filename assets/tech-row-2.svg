@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
+  <style>
+    .scroll-right {
+      animation: scroll-r 20s linear infinite;
+    }
+    @keyframes scroll-r {
+      0% { transform: translateX(-50%); }
+      100% { transform: translateX(0); }
+    }
+    .badge { rx: 4; ry: 4; height: 28; y: 4; }
+    .badge-text {
+      fill: #fff;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      dominant-baseline: central;
+    }
+  </style>
+  <g class="scroll-right">
+    <!-- First set -->
+    <rect class="badge" x="0" width="72" fill="#339933"/><text class="badge-text" x="36" y="18" text-anchor="middle">Node.js</text>
+    <rect class="badge" x="82" width="76" fill="#000000"/><text class="badge-text" x="120" y="18" text-anchor="middle">Express</text>
+    <rect class="badge" x="168" width="60" fill="#000000"/><text class="badge-text" x="198" y="18" text-anchor="middle">Flask</text>
+    <rect class="badge" x="238" width="100" fill="#6DB33F"/><text class="badge-text" x="288" y="18" text-anchor="middle">Spring Boot</text>
+    <rect class="badge" x="348" width="96" fill="#4169E1"/><text class="badge-text" x="396" y="18" text-anchor="middle">PostgreSQL</text>
+    <rect class="badge" x="454" width="84" fill="#47A248"/><text class="badge-text" x="496" y="18" text-anchor="middle">MongoDB</text>
+    <rect class="badge" x="548" width="60" fill="#DC382D"/><text class="badge-text" x="578" y="18" text-anchor="middle">Redis</text>
+    <!-- Duplicate set for seamless loop -->
+    <rect class="badge" x="640" width="72" fill="#339933"/><text class="badge-text" x="676" y="18" text-anchor="middle">Node.js</text>
+    <rect class="badge" x="722" width="76" fill="#000000"/><text class="badge-text" x="760" y="18" text-anchor="middle">Express</text>
+    <rect class="badge" x="808" width="60" fill="#000000"/><text class="badge-text" x="838" y="18" text-anchor="middle">Flask</text>
+    <rect class="badge" x="878" width="100" fill="#6DB33F"/><text class="badge-text" x="928" y="18" text-anchor="middle">Spring Boot</text>
+    <rect class="badge" x="988" width="96" fill="#4169E1"/><text class="badge-text" x="1036" y="18" text-anchor="middle">PostgreSQL</text>
+    <rect class="badge" x="1094" width="84" fill="#47A248"/><text class="badge-text" x="1136" y="18" text-anchor="middle">MongoDB</text>
+    <rect class="badge" x="1188" width="60" fill="#DC382D"/><text class="badge-text" x="1218" y="18" text-anchor="middle">Redis</text>
+  </g>
+</svg>

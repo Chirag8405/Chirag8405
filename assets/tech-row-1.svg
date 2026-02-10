@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36">
+  <style>
+    .scroll-left {
+      animation: scroll-l 20s linear infinite;
+    }
+    @keyframes scroll-l {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .badge { rx: 4; ry: 4; height: 28; y: 4; }
+    .badge-text {
+      fill: #fff;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      dominant-baseline: central;
+    }
+  </style>
+  <g class="scroll-left">
+    <!-- First set -->
+    <rect class="badge" x="0" width="100" fill="#3178C6"/><text class="badge-text" x="50" y="18" text-anchor="middle">TypeScript</text>
+    <rect class="badge" x="110" width="92" fill="#F7DF1E"/><text class="badge-text" x="156" y="18" text-anchor="middle" fill="#000">JavaScript</text>
+    <rect class="badge" x="212" width="72" fill="#3776AB"/><text class="badge-text" x="248" y="18" text-anchor="middle">Python</text>
+    <rect class="badge" x="294" width="56" fill="#ED8B00"/><text class="badge-text" x="322" y="18" text-anchor="middle">Java</text>
+    <rect class="badge" x="360" width="66" fill="#61DAFB"/><text class="badge-text" x="393" y="18" text-anchor="middle" fill="#000">React</text>
+    <rect class="badge" x="436" width="70" fill="#FF3E00"/><text class="badge-text" x="471" y="18" text-anchor="middle">Svelte</text>
+    <rect class="badge" x="516" width="72" fill="#000000"/><text class="badge-text" x="552" y="18" text-anchor="middle">Next.js</text>
+    <!-- Duplicate set for seamless loop -->
+    <rect class="badge" x="620" width="100" fill="#3178C6"/><text class="badge-text" x="670" y="18" text-anchor="middle">TypeScript</text>
+    <rect class="badge" x="730" width="92" fill="#F7DF1E"/><text class="badge-text" x="776" y="18" text-anchor="middle" fill="#000">JavaScript</text>
+    <rect class="badge" x="832" width="72" fill="#3776AB"/><text class="badge-text" x="868" y="18" text-anchor="middle">Python</text>
+    <rect class="badge" x="914" width="56" fill="#ED8B00"/><text class="badge-text" x="942" y="18" text-anchor="middle">Java</text>
+    <rect class="badge" x="980" width="66" fill="#61DAFB"/><text class="badge-text" x="1013" y="18" text-anchor="middle" fill="#000">React</text>
+    <rect class="badge" x="1056" width="70" fill="#FF3E00"/><text class="badge-text" x="1091" y="18" text-anchor="middle">Svelte</text>
+    <rect class="badge" x="1136" width="72" fill="#000000"/><text class="badge-text" x="1172" y="18" text-anchor="middle">Next.js</text>
+  </g>
+</svg>
