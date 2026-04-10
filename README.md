@@ -40,5 +40,5 @@ Full-stack developer and AI/ML engineer. I build privacy-first, offline-capable 
 ---
 
 <p align="center">
-  <a href="https://github.com/Chirag8405">GitHub</a> · <a href="mailto:your.email@example.com">Email</a>
+  <a href="https://github.com/Chirag8405">GitHub</a> · <a href="mailto:chiragpoornamath@gmail.com">Email</a>
 </p>
