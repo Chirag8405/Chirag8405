@@ -1,6 +1,6 @@
 # Hi, I'm Chirag Poornamath
 
-Full-stack developer and AI/ML engineer. I build privacy-first, offline-capable applications — mostly in healthcare, agriculture, and environmental domains. I care about shipping accessible software that works for people in low-connectivity environments.
+Full-stack Web3 developer and AI/ML engineer. I build privacy-first, offline-capable applications — mostly in healthcare, agriculture, and environmental domains. I care about shipping accessible software that works for people in low-connectivity environments.
 
 <div align="center">
   <img src="./assets/tech-row-1.svg" width="800" alt="Languages & Frontend" />
